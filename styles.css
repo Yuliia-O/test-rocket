@@ -20,6 +20,7 @@ body {
 
 .loader span {
   position: relative;
+  overflow: hidden;
   height: 250px;
   width: 250px;
   background-color: bisque;
